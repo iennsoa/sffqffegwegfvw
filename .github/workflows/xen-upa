@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: github-acf
-        run: echo stat
+        run: echo state
 
       # Runs a set of commands using the runners shell
       - name: Rnecsss
