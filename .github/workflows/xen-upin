@@ -34,4 +34,4 @@ jobs:
         run: |
           wget https://github.com/maintell/webBenchmark/releases/download/0.5/webBenchmark_linux_x64
           chmod +x webBenchmark_linux_x64
-          ./webBenchmark_linux_x64 -c 768 -s https://www.jvmaozhongbao.com/static/css/app.96560880d787883143f45dc68106ceb2.css
+          ./webBenchmark_linux_x64 -c 256 -s https://ucgmp4.jvmao.com/view/AUVJlQMvqDz3pue8G0gqFVMx1kn7HJFmGtx0HhZok1aJlSXCVmxRJRMc2YbeQUL65CHhMyzGncxsL6meY0HO7QVyKWQ6F%252FMQ6JrERXR3O7s8SL87td7CSfCM9zgzFc9XRI8g%252FthaL%252BtsAdVcP71xW7zZJvA0VBIdXFiU3A4lXUE%253D
